@@ -1,0 +1,25 @@
+
+
+
+#card{
+    list-style: none;
+  }
+
+
+#card li{
+    margin: 10px;
+    width: 60px;
+    height: 110px;
+    float: left;
+    border:solid 3px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+.hed {
+    font-size: 28px;
+    padding: 29px 40px;
+}
